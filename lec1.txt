@@ -1,0 +1,4 @@
+Q1:What is emment?
+Ans:Emmet is a tool that can be used to write JSX (JavaScript XML) code more quickly and efficiently. 
+Q2:What is the difference Between a library and FrameWork?
+Ans:
