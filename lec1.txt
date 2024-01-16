@@ -1,4 +1,29 @@
 Q1:What is emment?
 Ans:Emmet is a tool that can be used to write JSX (JavaScript XML) code more quickly and efficiently. 
 Q2:What is the difference Between a library and FrameWork?
+Ans:libraries target a specific functionality, while a framework tries to provide everything required to develop a complete application
+    A framework inverts the control of the program. It tells the developer what they need. A library doesn’t. The programmer calls the library where and when they 
+    need it.
+Q3:What is CDN? 
+Ans:A Content Delivery Network (CDN) is a distributed network of servers strategically located across the globe, designed to efficiently deliver web content to 
+    users. The primary goal of a CDN is to reduce latency, enhance website performance, and improve the overall user experience.
+Q4:Why is React known as React?
+Ans:React, the JavaScript library for building user interfaces, was developed by Facebook. 
+    React introduces a declarative way of building UI components, and it efficiently updates and re-renders only the necessary parts of the UI when the underlying 
+    data changes. This reactive approach to building interfaces is a key aspect of React's design.
+Q5:What is crossorigin in script tag?
+Ans:The crossorigin attribute in a script tag is used to control how browsers handle the loading of cross-origin (external) scripts. Cross-origin scripts are scripts 
+    that originate from a different domain than the one hosting the web page. 
+Q6: What is diference between React and ReactDOM
+Ans:React and ReactDOM are two separate packages provided by the React library, each serving a distinct purpose in the development of React applications.
+    React:The React package is the core of the React library. It provides the fundamental functionality for creating and managing React components, handling state 
+    and props, and implementing the virtual DOM diffing algorithm. When you write React components and use JSX syntax, you're essentially using features provided by 
+    the React package.
+    ReactDOM:The ReactDOM package is responsible for rendering React components in the browser. It provides methods to interact with the DOM (Document Object Model) 
+    and manage the mounting and updating of React components within the browser environment.
+Q7:What is difference between react.development.js and react.production.js files via CDN?
+Ans:The primary difference between the react.development.js and react.production.js files when obtained via a CDN lies in their intended use for development and 
+    production environments, respectively. These files are part of the React library, and they are optimized differently to suit different stages of the software 
+    development life cycle.
+Q8:What is async and defer?
 Ans:
